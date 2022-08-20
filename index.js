@@ -8,7 +8,4 @@ const port = 900;
 express.use(Express.static('server'));
 
 // server listen
-express.listen(port, function()
-{
-    console.log(`Server started at port: ${port}`);
-});
+express.listen(port, console.log(`Server started at port: ${port}`));
