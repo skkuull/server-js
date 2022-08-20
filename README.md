@@ -1,7 +1,10 @@
 # server-js
+- **Note**: This server requires [**Node.JS**](https://nodejs.org) to be installed.
 
 ## Usage:
-- **Note**: This server requires [**Node.JS**](https://nodejs.org) to be installed.
+- Install **server-js** from [here](https://github.com/skkuull/server-js/archive/refs/heads/main.zip)
+
+- Open **`install_packages.bat`** to install the required modules for the server
 
 - Select the port from [**index.js**](/index.js) specifically from here:
 
